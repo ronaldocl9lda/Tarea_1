@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#fondo-principal {
+    display: block;
+    width: 90%;
+    background-color: greenyellow;
+    margin: 0 auto;
+}
+
+header {
+    background-color: orange;
+}
+
+nav {
+    background-color: rgb(255, 215, 140);
+}
+
+#imagenes {
+    display: flex;
+    background-color: orange;
+    justify-content:space-evenly;
+    margin: 0 auto;
+}
+
+#imagenes img {
+    width: 10%;
+    margin: 20px;
+}
+
+#container {
+    background-color: aqua;
+}
